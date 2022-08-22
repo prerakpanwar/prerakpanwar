@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @prerakpanwar
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Python Developer Course
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me https://www.linkedin.com/in/prerak-panwar-705660119
