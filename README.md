@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @prerakpanwar
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python Developer Course
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/prerak-panwar-705660119
+- 👋 Hi, I’m @PrerakPanwar
+- 👀 I’m interested in roles like Data Analytics| Data engineer and Cloud Technologies
+- 🌱 I’m currently pursuing my Masters in Computer Science from UMass Dartmouth.
+- 💞️ I’m looking to collaborate on cloud projects based on Azure/AWS services
+- 📫 How to reach me https://www.linkedin.com/in/prerak-panwar/
