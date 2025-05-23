@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrerakPanwar
-- 👀 I’m interested in roles like Data engineer | Data Analytics
-- 🌱 I’m currently pursuing my Masters in Computer Science from University of Massachusetts Dartmouth.
-- 💞️ I’m looking to collaborate on cloud projects based on Azure/AWS services and working on building automated data piplines.
-- 📫 How to reach me https://www.linkedin.com/in/prerak-panwar/
+- 👀 I’m interested in roles like Data Engineer | Data Analyst | Software Developer
+- 🌱 I've a Masters degree in Computer and Information Science from University of Massachusetts, Dartmouth.
+- 💞️ I’m looking for full-time job opportunities where I can make an impact!
+- 📫 How to reach me https://www.linkedin.com/in/prerak-panwar/ or email me at panwarprerak98@gmail.com
