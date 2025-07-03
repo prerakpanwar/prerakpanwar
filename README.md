@@ -1,5 +1,6 @@
 # ABOUT ME:
 - Hi, I am @PrerakPanwar {Data and Machine Learning Engineer & Data Analyst and Scientist}
+- I have 4+ years of Experience
 - I have a Master's degree in Computer and Information Science from University of Massachusetts & a Bachelors in Computer Science and Engineering 
 - I am looking for full-time job opportunities where I can make an impact and grow with the company
 - Reach me at: https://www.linkedin.com/in/prerak-panwar/ | panwarprerak98@gmail.com
@@ -18,3 +19,7 @@
 (Tableau, KPIs)
 - https://github.com/prerakpanwar/Excel-Interactive-Dashboard
 (Excel, PivotTable, VLOOKUP/XLOOKUP, Power Pivot, KPIs)
+
+
+![apple-3759941_1280](https://github.com/user-attachments/assets/ee5c974d-407e-40cb-b596-d074feff1712)
+
