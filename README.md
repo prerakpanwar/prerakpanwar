@@ -13,6 +13,7 @@
 
 # MY PROJECTS:
 - https://github.com/prerakpanwar/Real-Time-Fraud-Detection-System
+
   https://github.com/prerakpanwar/Fraud_Analytics_ChatBot
 (LLM, RAG, Langchain, OpenAI, Machine Learning, XGBoost, Docker, Kafka, MySQL, Python, Flask, VsCode, Jupyter labs)
 
