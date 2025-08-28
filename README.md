@@ -1,7 +1,8 @@
-# LEARN MORE ABOUT ME AT prerakpanwar.github.io
-- Hi, I am @PrerakPanwar {Data Engineer | Software Engineer | Data Analyst | Data Scientist}
+<img width="1584" height="396" alt="ppanwar@Umassd edu (1)" src="https://github.com/user-attachments/assets/a99def5d-c196-404a-bc8a-8c61bbea70ce" />
 
-- I have 4+ years of Experience {Query Optimization, Scalable ETL pipelines, Automated Workflows, Reporting & Dashboarding, Data Quality Assurance, Predicting Trends, Feature Engineering, Data Migration and Warehousing}
+- Hi, I am @PrerakPanwar {Data Engineer + Analyst | Software Engineer | ML & AI Engineer}
+
+- I have 4+ years of Experience {Query Optimization, Scalable ETL pipelines, Automated Workflows, Reporting & Dashboarding, Data Quality Assurance, Predicting Trends, Feature Engineering, Data Migration, Data Modeling and Data Warehousing}
 
 - I have a Master's degree in Computer and Information Science from University of Massachusetts & a Bachelors in Computer Science and Engineering
 
