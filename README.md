@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="ppanwar@Umassd edu (1)" src="https://github.com/user-attachments/assets/a99def5d-c196-404a-bc8a-8c61bbea70ce" />
+<img width="1584" height="396" alt="ppanwar@Umassd edu (2)" src="https://github.com/user-attachments/assets/7a981fdb-df99-48f4-a5ef-b4c04659f12f" />
 
 - Hi, I am @PrerakPanwar {Data Engineer + Analyst | Software Engineer | ML & AI Engineer}
 
