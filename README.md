@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="ppanwar@Umassd edu (2)" src="https://github.com/user-attachments/assets/7a981fdb-df99-48f4-a5ef-b4c04659f12f" />
 
-- Hi, I am @PrerakPanwar {Data Engineer + Analyst | Software Engineer | ML & AI Engineer}
+- Hi, I am @PrerakPanwar {Data Engineer + Analyst | ML | AI | GenAI}
 
 - I have 4+ years of Experience {Handling Stakeholders, Cross-Functional Experience, Query Optimization, Scalable ETL pipelines, Automated Workflows, Reporting & Dashboarding, Data Quality Assurance, Predicting Trends, Feature Engineering, Data Migration, Data Modeling and Data Warehousing, Agile and Methodologies, CI/CD Pipelines, Continuous Learning and Industry Trends}
 
