@@ -15,38 +15,40 @@
 - My Tech Stack is mostly { SQL, Python, Azure, Power BI, Alteryx, Machine Learning, Data Modeling, Docker, Kafka, REST APIs }
 
 # MY PROJECTS:
-- REAL-TIME FRAUD DETECTION SYSTEM
+
+## REAL-TIME FRAUD DETECTION SYSTEM
 
   https://github.com/prerakpanwar/Real-Time-Fraud-Detection-System
+  
   https://github.com/prerakpanwar/Fraud_Analytics_ChatBot
 ( LLM, RAG, Langchain, OpenAI, Machine Learning, XGBoost, Docker, Kafka, MySQL, Python, Flask, VsCode, Jupyter labs )
 
-- POWER BI INSURANCE ANALYSIS DASHBOARD
+## POWER BI INSURANCE ANALYSIS DASHBOARD
 
   https://github.com/prerakpanwar/Insurance-Data-Analysis
   ( Power BI, KPI Alert, Query Folding, Data Modeling, DAX )
   
-- TABLEAU SALES ANALYSIS DASHBOARD
+## TABLEAU SALES ANALYSIS DASHBOARD
 
   https://public.tableau.com/app/profile/prerak.panwar/viz/House_Sales_Dashboard_17085606739470/House_Sales_Dashboard
 ( Tableau, KPIs )
 
-- ADVANCED EXCEL REPORTING
+## ADVANCED EXCEL REPORTING
 
   https://github.com/prerakpanwar/Excel-Interactive-Dashboard
   ( Excel, PivotTable, VLOOKUP/XLOOKUP, Power Pivot, KPIs )
-  
-- RECOMMENDATION SYSTEM
+
+## RECOMMENDATION SYSTEM
 
   https://github.com/prerakpanwar/Recommender-System
 ( Machine Learning, NLP, Vectorization, Python, Jupyter labs, PyCharm )
 
-- CHURN DETECTION AUTOMATION
+## CHURN DETECTION AUTOMATION
 
   https://github.com/prerakpanwar/Customer-Sales-Churn-Analysis-Automation
 ( Alteryx )
 
-- AZURE ETL PIPELINE
+## AZURE ETL PIPELINE
 
   https://github.com/prerakpanwar/Data_Engineering_Azure
 ( Azure Data Factory, Azure Data Lake Storage Gen2, Azure Synapse Analytics, Databricks, Spark, Python, SQL, Azure Linked Services )
