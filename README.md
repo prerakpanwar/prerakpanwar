@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="ppanwar@Umassd edu (3)" src="https://github.com/user-attachments/assets/e50d6f7c-7458-4647-85b7-ad74ca2fa326" />
 
-- Hi, I am @PrerakPanwar { Data Engineer | Analyst | ML | AI | GenAI }
+- Hi, I am @PrerakPanwar { Data and Software Engineer }
 
 - I have 4+ years of Experience { Handling Stakeholders, Cross-Functional Experience, Query Optimization, Scalable ETL pipelines, Automated Workflows, Reporting & Dashboarding, Data Quality Assurance, Predicting Trends, Feature Engineering, Data Migration, Data Modeling and Data Warehousing, Agile and Methodologies, CI/CD Pipelines, Continuous Learning and Industry Trends }
 
@@ -9,6 +9,8 @@
 - I am looking for full-time job opportunities where I can make an impact and grow with the company
 
 - Reach me at: https://www.linkedin.com/in/prerak-panwar/ | panwarprerak98@gmail.com
+  
+- My leetcode link: https://leetcode.com/u/Prerak_Panwar
 
 - My Tech Stack is mostly { SQL, Python, Azure, Power BI, Alteryx, Machine Learning, Data Modeling, Docker, Kafka, REST APIs }
 
