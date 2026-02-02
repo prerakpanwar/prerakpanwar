@@ -2,7 +2,7 @@
 
 - Hi, I am @PrerakPanwar { Data and Software Engineer }
 
-- I have 4+ years of Experience { Handling Stakeholders, Cross-Functional Experience, Query Optimization, Scalable ETL pipelines, Automated Workflows, Reporting & Dashboarding, Data Quality Assurance, Predicting Trends, Feature Engineering, Data Migration, Data Modeling and Data Warehousing, Agile and Methodologies, CI/CD Pipelines, Continuous Learning and Industry Trends }
+- I have 5 years of Experience { Handling Stakeholders, Cross-Functional Experience, Query Optimization, Scalable ETL pipelines, Automated Workflows, Reporting & Dashboarding, Data Quality Assurance, Predicting Trends, Feature Engineering, Data Migration, Data Modeling and Data Warehousing, Agile and Methodologies, CI/CD Pipelines, Continuous Learning and Industry Trends }
 
 - I have a Master's degree in Computer and Information Science from University of Massachusetts & a Bachelors in Computer Science and Engineering from Graphic Era University
 
