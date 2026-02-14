@@ -12,7 +12,7 @@
   
 - My leetcode link: https://leetcode.com/u/Prerak_Panwar
 
-- My Tech Stack is mostly { SQL, Python, Azure, Power BI, Alteryx, Machine Learning, Data Modeling, Docker, Kafka, REST APIs }
+- My Tech Stack is mostly { Excel, SQL, Python, PySpark, Azure/AWS/GCP, Power BI, Tableau, Machine Learning, Data Modeling, Databricks, Snowflake, Docker, Kafka, REST APIs }
 
 # MY PROJECTS:
 
